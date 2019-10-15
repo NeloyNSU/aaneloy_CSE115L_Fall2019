@@ -31,8 +31,11 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.15",
     "siteFonts": [],
+    "favicon": "",
+    "noImageResize": "true",
     "uniqCompNum": 12,
-    "versionPublish": "4.10.15"
+    "versionPublish": "4.10.15",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "aaneloy_CSE115L_Fall2019.html": {
