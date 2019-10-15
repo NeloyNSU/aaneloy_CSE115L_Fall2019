@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "aaneloy_CSE115L_Fall19",
-    "currentPage": "index.html",
+    "currentPage": "aaneloy_CSE115L_Fall2019.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -35,10 +35,10 @@
     "versionPublish": "4.10.15"
   },
   "pages": {
-    "index.html": {
+    "aaneloy_CSE115L_Fall2019.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "aaneloy_CSE115L_Fall2019",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
