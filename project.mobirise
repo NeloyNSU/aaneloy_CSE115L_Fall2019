@@ -32,7 +32,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.15",
     "siteFonts": [],
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/pyc.ico",
     "noImageResize": "",
     "uniqCompNum": 17,
     "versionPublish": "4.10.15",
