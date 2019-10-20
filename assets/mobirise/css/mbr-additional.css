@@ -863,7 +863,7 @@ section.lazy-placeholder:after {
   background-color: #f9f295;
 }
 .cid-rEWGzV14yO .mbr-section-subtitle {
-  color: #767676;
+  color: #232323;
 }
 .cid-rEWGzV14yO .container-table {
   margin: 0 auto;
@@ -932,6 +932,12 @@ section.lazy-placeholder:after {
     width: 100% !important;
     margin-left: 0 !important;
   }
+}
+.cid-rEWGzV14yO .head-item {
+  text-align: center;
+}
+.cid-rEWGzV14yO .body-item {
+  text-align: center;
 }
 .cid-rEWGApF4S3 {
   padding-top: 90px;
