@@ -1185,24 +1185,3 @@ section.lazy-placeholder:after {
 .cid-rG1QgwAOZB .mbr-step-text {
   color: #232323;
 }
-.cid-rEWGAQeP8m {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #55b4d4;
-}
-.cid-rEWGAQeP8m .title {
-  margin-bottom: 2rem;
-}
-.cid-rEWGAQeP8m .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-rEWGAQeP8m a:not([href]):not([tabindex]) {
-  color: #fff;
-  border-radius: 3px;
-}
-.cid-rEWGAQeP8m a.btn-white:not([href]):not([tabindex]) {
-  color: #333;
-}
-.cid-rEWGAQeP8m textarea.form-control {
-  min-height: 188px;
-}
